@@ -1,0 +1,8 @@
+## Interface: 100206
+## Title: DeckRPG
+## Author: Sha
+## Version: 0.0.1
+## Notes: Boss dice
+
+DeckRPG.lua
+main.lua
